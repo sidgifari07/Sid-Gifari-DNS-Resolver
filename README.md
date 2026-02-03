@@ -8,14 +8,6 @@ SidGifari DNS Resolver is a powerful, privacy-focused DNS resolution tool for Wi
 
 ✅ Custom Blocklists: Blocks ads, trackers, malware, and unwanted domains
 
-✅ IPv4 & IPv6 Support: Works with both protocols for maximum compatibility
-
-✅ System DNS Integration: Automatically configures Windows DNS settings
-
-✅ Service-Based: Runs as a Windows service for continuous operation
-
-✅ Bootstrap & Forwarding: Supports multiple upstream resolvers and forwarding rules
-
 ✅ Easy Testing: Built-in DNS resolution test for verification
 
 📂 Included Files
