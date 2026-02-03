@@ -20,8 +20,8 @@ SidGifari DNS Resolver is a powerful, privacy-focused DNS resolution tool for Wi
 
 📂 Included Files
 
-SidGifari-dns-resolver.exe – Main executable
+SidGifari-dns-resolver.exe – Main Tool Just Dubble click
 
 dns-resolver.toml – Core configuration file
-Dubble click+ SidGifari-dns-resolver.exe
+
 <img width="831" height="331" alt="image" src="https://github.com/user-attachments/assets/1722c5c5-096b-46c9-9d6c-86cd5e799aea" />
