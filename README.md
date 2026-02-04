@@ -8,7 +8,7 @@ Sid Gifari DNS Resolver is a powerful, privacy-focused DNS resolution tool for W
 
 📂 Included Files
 
-SidGifari-dns-resolver.exe – Main Tool Just Dubble click
+Sid-DNS-resolver.exe – Main Tool Just Dubble click
 
 dns-resolver.toml – Core configuration file
 
