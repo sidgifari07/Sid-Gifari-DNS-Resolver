@@ -1,5 +1,4 @@
-download zip
-https://github.com/sidgifari07/Sid-Gifari-DNS-Resolver/blob/main/Sid-DNS-resolver.zip
+
 
 Sid Gifari DNS Resolver 🛡️💻
 
