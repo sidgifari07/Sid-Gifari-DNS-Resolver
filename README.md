@@ -5,13 +5,6 @@ Sid Gifari DNS Resolver 🛡️💻
 
 Sid Gifari DNS Resolver is a powerful, privacy-focused DNS resolution tool for Windows that encrypts your DNS queries, blocks ads, trackers, and malicious domains, and ensures secure internet browsing. Built by Sid Gifari From Gifari Industries – BD Cyber Security Team, this tool combines DNSCrypt, DoH (DNS over HTTPS), and custom blocking lists to give you full control over your DNS traffic.
 
-⚡ Features
-
-✅ Encrypted DNS: Supports DNSCrypt, DoH, and ODoH for secure query resolution
-
-✅ Custom Blocklists: Blocks ads, trackers, malware, and unwanted domains
-
-✅ Easy Testing: Built-in DNS resolution test for verification
 
 📂 Included Files
 
